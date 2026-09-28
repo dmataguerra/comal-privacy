@@ -1,2 +1,1 @@
-# comal-privacy
-PolÃ­tica de privacidad pÃºblica de Comal++
+Política de privacidad pública de Comal ++ Queue System
